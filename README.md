@@ -12,7 +12,7 @@
 
 - React
 - Firebase
-  `Preview`
   <br>
+  `Preview`
 
 ![](./public/screen.gif)
