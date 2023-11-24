@@ -13,5 +13,6 @@
 - React
 - Firebase
   `Preview`
+  <br>
 
 ![](./public/screen.gif)
